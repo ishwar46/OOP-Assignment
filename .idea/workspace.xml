@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Details.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Preimeter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Details">
+  <component name="RunManager" selected="Application.Preimeter">
     <configuration name="Details" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Details" />
       <module name="OOP-Assignment" />
@@ -48,15 +46,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Results" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Results" />
+    <configuration name="Preimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Preimeter" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StdDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StdDetails" />
+    <configuration name="Results" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Results" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +69,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Preimeter" />
         <item itemvalue="Application.Details" />
         <item itemvalue="Application.SumProduct" />
         <item itemvalue="Application.Results" />
         <item itemvalue="Application.NumberSum" />
-        <item itemvalue="Application.StdDetails" />
       </list>
     </recent_temporary>
   </component>
