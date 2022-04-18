@@ -14,7 +14,7 @@ public class SumProduct {
 
         //product
         int product = product(a,b);
-        System.out.println("The Product is: ");
+        System.out.println("The Product is: " + product);
     }
     //sum
     public static int add(int a, int b)
