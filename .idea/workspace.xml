@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CompMarks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThereeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CompMarks">
+  <component name="RunManager" selected="Application.ThereeNumbers">
     <configuration name="CompMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompMarks" />
       <module name="OOP-Assignment" />
@@ -55,13 +54,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StdDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StdDetails" />
-      <module name="OOP-Assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sum" />
       <module name="OOP-Assignment" />
@@ -69,13 +61,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThereeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThereeNumbers" />
+      <module name="OOP-Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThereeNumbers" />
         <item itemvalue="Application.CompMarks" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.Marks" />
         <item itemvalue="Application.InputNumber" />
-        <item itemvalue="Application.StdDetails" />
       </list>
     </recent_temporary>
   </component>
