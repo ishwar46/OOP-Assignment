@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ThereeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ThereeNumbers">
+  <component name="RunManager" selected="Application.SquareNumber">
     <configuration name="CompMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompMarks" />
       <module name="OOP-Assignment" />
@@ -40,15 +40,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputNumber" />
+    <configuration name="Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Marks" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Marks" />
+    <configuration name="SquareNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareNumber" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquareNumber" />
         <item itemvalue="Application.ThereeNumbers" />
         <item itemvalue="Application.CompMarks" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.Marks" />
-        <item itemvalue="Application.InputNumber" />
       </list>
     </recent_temporary>
   </component>
