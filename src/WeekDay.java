@@ -8,35 +8,35 @@ public class WeekDay {
 
         if(day == 1) {
 
-            System.out.println("Monday");
+            System.out.println("Sunday");
 
         } else if(day == 2) {
 
-            System.out.println("Tuesday");
+            System.out.println("Monday");
 
         } else if(day == 3) {
 
-            System.out.println("Wednesday");
+            System.out.println("Tuesday");
 
         } else if(day == 4) {
 
-            System.out.println("Thursday");
+            System.out.println("Wednesday");
 
         } else if(day == 5) {
 
-            System.out.println("Friday");
+            System.out.println("Thursday");
 
         } else if(day == 6) {
 
-            System.out.println("Saturday");
+            System.out.println("Friday");
 
         } else if(day == 7) {
 
-            System.out.println("Sunday");
+            System.out.println("Saturday");
 
         } else {
 
-            System.out.println("Please enter weekday number between 1-7.");
+            System.out.println("Please enter any day number between 1-7.");
         }
     }
 }
