@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ThreeInputs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/SquareNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/SquareNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/CodeDope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/CodeDope.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CodeDope">
+  <component name="RunManager" selected="Application.ThreeInputs">
     <configuration name="CodeDope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeDope" />
       <module name="OOP-Assignment" />
@@ -61,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumProduct" />
+    <configuration name="ThreeInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeInputs" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeInputs" />
         <item itemvalue="Application.CodeDope" />
         <item itemvalue="Application.SquareNum" />
         <item itemvalue="Application.Preimeter" />
         <item itemvalue="Application.Details" />
-        <item itemvalue="Application.SumProduct" />
       </list>
     </recent_temporary>
   </component>
