@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TriangleCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProfitAndLoss.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,16 +40,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.triangle">
-    <configuration name="ADS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ADS" />
+  <component name="RunManager" selected="Application.ProfitAndLoss">
+    <configuration name="MonthDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MonthDays" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonthDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MonthDays" />
+    <configuration name="ProfitAndLoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProfitAndLoss" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProfitAndLoss" />
         <item itemvalue="Application.triangle" />
         <item itemvalue="Application.MonthDays" />
         <item itemvalue="Application.WeekDay" />
         <item itemvalue="Application.UpperLower" />
-        <item itemvalue="Application.ADS" />
       </list>
     </recent_temporary>
   </component>
