@@ -17,6 +17,5 @@ public class ADS {
         else {
             System.out.println("Entered character is a Special Character");
         }
-
     }
 }

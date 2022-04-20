@@ -58,8 +58,10 @@ public class MonthDays {
         }
         else
         {
-            System.out.println("Invalid input! Please enter month number between (1-12).");
+            System.out.println("Invalid input! Please enter month number between 1-12.");
         }
 
     }
 }
+// Month Number = Month Name
+//

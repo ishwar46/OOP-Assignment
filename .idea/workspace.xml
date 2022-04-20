@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NestedSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/ADS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/ADS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/MonthDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/MonthDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/ShoesName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/ShoesName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ADS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ADS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MonthDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MonthDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vowels.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +52,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ShoesName">
+  <component name="RunManager" selected="Application.Notes">
     <configuration name="NestedSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NestedSwitch" />
+      <module name="OOP-Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Notes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Notes" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchTest" />
-      <module name="OOP-Assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShoesName" />
+        <item itemvalue="Application.Notes" />
         <item itemvalue="Application.SwitchString" />
+        <item itemvalue="Application.ShoesName" />
         <item itemvalue="Application.NestedSwitch" />
         <item itemvalue="Application.SwitchSize" />
-        <item itemvalue="Application.SwitchTest" />
       </list>
     </recent_temporary>
   </component>

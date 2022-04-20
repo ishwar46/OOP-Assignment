@@ -40,7 +40,7 @@ class ShoesName{
             case "Gold Star":
                 System.out.println("You can buy G10");
                 break;
-            case "Shikhar":
+            case "Sikhar":
                 System.out.println("You can buy Sikhar 10");
                 break;
             case "Caliber":
