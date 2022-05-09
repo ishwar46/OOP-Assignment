@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassWorkPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassWork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +31,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.pallindrome">
+}</component>
+  <component name="RunManager" selected="Application.Week4">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="OOP-Assignment" />
@@ -59,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeProgram" />
+    <configuration name="Week4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week4" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week4" />
         <item itemvalue="Application.pallindrome" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.Fibonacii" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.PalindromeProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -92,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650088936518</updated>
       <workItem from="1651823121193" duration="5120000" />
+      <workItem from="1652139755565" duration="185000" />
     </task>
     <servers />
   </component>
