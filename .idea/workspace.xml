@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RandomPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/RandomPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/RandomPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RandomPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +37,16 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RandomPractice">
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
+  <component name="RunManager" selected="Application.LogicalOps">
+    <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Age" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacii" />
+    <configuration name="LogicalOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicalOps" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LogicalOps" />
+        <item itemvalue="Application.Age" />
         <item itemvalue="Application.RandomPractice" />
         <item itemvalue="Application.Week4" />
         <item itemvalue="Application.pallindrome" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.Fibonacii" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650088936518</updated>
       <workItem from="1651823121193" duration="5120000" />
-      <workItem from="1652139755565" duration="423000" />
+      <workItem from="1652139755565" duration="1552000" />
     </task>
     <servers />
   </component>
