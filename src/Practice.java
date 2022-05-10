@@ -72,3 +72,64 @@ class StdMarks{
 
     }
 }
+
+class GovTax{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        float tax = 0;
+        float income = sc.nextFloat();
+        if(income<=2.5){
+            tax = tax + 0;
+        }
+        else if(income>2.5f && income <= 5f){
+            tax = tax + 0.05f * (income - 2.5f);
+        }
+        else if(income>5f && income <= 10.0f){
+            tax = tax + 0.05f * (5.0f - 2.5f);
+            tax = tax + 0.2f * (income - 5f);
+        }
+        else if(income>10.0f){
+            tax = tax + 0.05f * (5.0f - 2.5f);
+            tax = tax + 0.2f * (10.0f - 5f);
+            tax = tax + 0.3f * (income - 10.0f);
+        }
+
+        System.out.println("The total tax paid by the employee is: " + tax);
+    }
+}
+
+//Find out the day of the week 1 for Sunday to 7 for Saturday
+
+class DaysWeek{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter number of day: ");
+        int day = sc.nextInt();
+
+        switch (day) {
+            case 1:
+                System.out.println("Sunday");
+                break;
+            case 2:
+                System.out.println("Monday");
+                break;
+            case 3:
+                System.out.println("Tuesday");
+                break;
+            case 4:
+                System.out.println("Wednesday");
+                break;
+            case 5:
+                System.out.println("Thursday");
+                break;
+            case 6:
+                System.out.println("Friday");
+                break;
+            case 7:
+                System.out.println("Saturday");
+                break;
+            default:
+                System.out.println("Invalid!!");
+        }
+    }
+}
