@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Function.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week4.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LeapYear">
+  <component name="RunManager" selected="Application.PrimeNumberFunction">
     <configuration name="DaysWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaysWeek" />
       <module name="OOP-Assignment" />
@@ -44,8 +45,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GovTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GovTax" />
+    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StdMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StdMarks" />
+    <configuration name="PrimeNumberFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumberFunction" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumberFunction" />
+        <item itemvalue="Application.Function" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.Website" />
         <item itemvalue="Application.DaysWeek" />
-        <item itemvalue="Application.GovTax" />
-        <item itemvalue="Application.StdMarks" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650088936518</updated>
       <workItem from="1651823121193" duration="5120000" />
-      <workItem from="1652139755565" duration="13624000" />
+      <workItem from="1652139755565" duration="18745000" />
     </task>
     <servers />
   </component>
