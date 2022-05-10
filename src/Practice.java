@@ -133,3 +133,35 @@ class DaysWeek{
         }
     }
 }
+
+//Leap Year
+
+class LeapYear{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter year to check weather it is leap year or not: ");
+        int year = sc.nextInt();
+
+        if(year%400!=0 || year%4!=0){
+            System.out.println(year+ " is a Leap Year");
+        }
+        else {
+            System.out.println(year+  " is not a leap year");
+        }
+    }
+}
+
+class Website{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the URL of the website: ");
+        String website = sc.next();
+        if(website.endsWith(".org")){
+            System.out.println("This is an orginizational websiste");
+        } else if (website.endsWith(".com")) {
+            System.out.println("This is an Commercial Website");
+        } else if (website.endsWith(".np")) {
+            System.out.println("This is an Nepali website");
+        }
+    }
+}
