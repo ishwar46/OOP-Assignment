@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +35,16 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SwitchCase">
+  <component name="RunManager" selected="Application.CheckNumber">
     <configuration name="AgeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AgeCheck" />
+      <module name="OOP-Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckNumber" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,13 +64,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicalOps" />
-      <module name="OOP-Assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SwitchCase" />
       <module name="OOP-Assignment" />
@@ -74,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckNumber" />
         <item itemvalue="Application.SwitchCase" />
         <item itemvalue="Application.AgeCheck" />
         <item itemvalue="Application.LogicalNOT" />
         <item itemvalue="Application.LogicalOR" />
-        <item itemvalue="Application.LogicalOps" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650088936518</updated>
       <workItem from="1651823121193" duration="5120000" />
-      <workItem from="1652139755565" duration="3587000" />
+      <workItem from="1652139755565" duration="3681000" />
     </task>
     <servers />
   </component>
