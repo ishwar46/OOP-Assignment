@@ -1,3 +1,4 @@
+import java.net.Socket;
 import java.util.Scanner;
 
 //Marks of student
@@ -43,5 +44,31 @@ class CheckNumber{
         else {
             System.out.println("Iam not 11");
         }
+    }
+}
+
+class StdMarks{
+    public static void main(String[] args) {
+        int progamming;
+        int database;
+        int android;
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter you marks in Progamming: ");
+        progamming = sc.nextInt();
+        System.out.println("Enter you marks in database: ");
+        database = sc.nextInt();
+        System.out.println("Enter you marks in android: ");
+        android = sc.nextInt();
+
+        float avg = (progamming + database + android)/3.0f;
+        System.out.println("Average Marks is: " +avg);
+        if(avg>=40 && progamming >=33 && database >=33 && android >=33){
+            System.out.println("Congratulations, You have passed.");
+        }
+        else {
+            System.out.println("Sorry, you have failed!");
+        }
+
     }
 }
