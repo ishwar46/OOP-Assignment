@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/RandomPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/RandomPractice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RandomPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +36,23 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LogicalOps">
+  <component name="RunManager" selected="Application.LogicalNOT">
     <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Age" />
+      <module name="OOP-Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalNOT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicalNOT" />
+      <module name="OOP-Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicalOR" />
       <module name="OOP-Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,27 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4" />
-      <module name="OOP-Assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pallindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pallindrome" />
-      <module name="OOP-Assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LogicalNOT" />
+        <item itemvalue="Application.LogicalOR" />
         <item itemvalue="Application.LogicalOps" />
         <item itemvalue="Application.Age" />
         <item itemvalue="Application.RandomPractice" />
-        <item itemvalue="Application.Week4" />
-        <item itemvalue="Application.pallindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650088936518</updated>
       <workItem from="1651823121193" duration="5120000" />
-      <workItem from="1652139755565" duration="1552000" />
+      <workItem from="1652139755565" duration="1994000" />
     </task>
     <servers />
   </component>
