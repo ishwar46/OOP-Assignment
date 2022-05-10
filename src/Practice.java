@@ -49,17 +49,17 @@ class CheckNumber{
 
 class StdMarks{
     public static void main(String[] args) {
-        int progamming;
-        int database;
-        int android;
+        float progamming;
+        float database;
+        float android;
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter you marks in Progamming: ");
-        progamming = sc.nextInt();
+        progamming = sc.nextFloat();
         System.out.println("Enter you marks in database: ");
-        database = sc.nextInt();
+        database = sc.nextFloat();
         System.out.println("Enter you marks in android: ");
-        android = sc.nextInt();
+        android = sc.nextFloat();
 
         float avg = (progamming + database + android)/3.0f;
         System.out.println("Average Marks is: " +avg);
