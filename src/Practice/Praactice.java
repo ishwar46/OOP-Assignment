@@ -1,12 +1,11 @@
-package Assignment;
+package Practice;
 import java.util.Scanner;
 
 import java.util.Scanner;
+import java.util.Scanner;
 
-public class Practice {
+public class Praactice {
 }
-
-
 //Practice Makes a Man Perfect
 class RandomPractice {
     public static void main(String[] args) {
