@@ -83,10 +83,10 @@ public class RockPaperScissor {
         System.out.printf("\nYou won %d matches.\nSecond Player won %d matches.", u1 , c1);
         System.out.println("");
         if(c1<u1){
-            System.out.println("\nYou are a WINNER of this game");
+            System.out.println("\nYou are the WINNER of this game");
         }
         else if(c1>u1){
-            System.out.println("\nSecond Player is a WINNER of this game");
+            System.out.println("\nSecond Player is the WINNER of this game");
         }
         else if(c1==u1){
             System.out.println("\nThis game is TIE");
