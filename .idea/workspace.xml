@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week6/MatrixAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/ClassLec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/BreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/BreakContinue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +36,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DoWhileCont">
-    <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.BreakContinue" />
+  <component name="RunManager" selected="Application.MaxAndMinElementsinArray">
+    <configuration name="AvgArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.AvgArr" />
       <module name="OOP-Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cont" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Cont" />
+    <configuration name="MaxAndMinElementsinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.MaxAndMinElementsinArray" />
       <module name="OOP-Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileCont" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.DoWhileCont" />
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.OddEven" />
       <module name="OOP-Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.DoWhileLoop" />
+    <configuration name="OddEvennew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.OddEvennew" />
       <module name="OOP-Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.While" />
+    <configuration name="SecondQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.SecondQuestion" />
       <module name="OOP-Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoWhileCont" />
-        <item itemvalue="Application.Cont" />
-        <item itemvalue="Application.DoWhileLoop" />
-        <item itemvalue="Application.While" />
-        <item itemvalue="Application.BreakContinue" />
+        <item itemvalue="Application.MaxAndMinElementsinArray" />
+        <item itemvalue="Application.SecondQuestion" />
+        <item itemvalue="Application.AvgArr" />
+        <item itemvalue="Application.OddEvennew" />
+        <item itemvalue="Application.OddEven" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +123,7 @@
       <workItem from="1651823121193" duration="5120000" />
       <workItem from="1652139755565" duration="18745000" />
       <workItem from="1652250810231" duration="20880000" />
-      <workItem from="1652764711920" duration="917000" />
+      <workItem from="1652764711920" duration="7023000" />
     </task>
     <servers />
   </component>
