@@ -1,6 +1,5 @@
 package Week6;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -15,10 +14,7 @@ public class ClassLec {
         myArray[4] =5;
         //System.out.println(myArray);
         System.out.println(Arrays.toString(myArray));
-
-
     }
-
 }
 
 
@@ -35,11 +31,6 @@ class NameString{
         System.out.println(Arrays.toString(newarry));
     }
 }
-
-
-
-
-
 
 
 class AvgArr {
@@ -231,18 +222,3 @@ class MaxAndMinElementsinArray {
         }
     }
 }
-
-
- class NewnewArrays{
-     public static void main(String[] args) {
-         double values-(81, 52, 33, 95, 18, 4, 7:
-         double snallest-volues(0):
-         for (int i- 0;ie values.length; ++){
-             if (volues[i]<smallest){
-                 snallest-values[i):
-                 System.out.print(smollest);
-             }
-         }
-     }
-    }
- }
