@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/MatrixAdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/BreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/BreakContinue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,49 +37,79 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumberFunction">
-    <configuration name="DaysWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DaysWeek" />
+  <component name="RunManager" selected="Application.DoWhileCont">
+    <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.BreakContinue" />
       <module name="OOP-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function" />
+    <configuration name="Cont" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Cont" />
       <module name="OOP-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+    <configuration name="DoWhileCont" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.DoWhileCont" />
       <module name="OOP-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumberFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumberFunction" />
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.DoWhileLoop" />
       <module name="OOP-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Website" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Website" />
+    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.While" />
       <module name="OOP-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumberFunction" />
-        <item itemvalue="Application.Function" />
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.Website" />
-        <item itemvalue="Application.DaysWeek" />
+        <item itemvalue="Application.DoWhileCont" />
+        <item itemvalue="Application.Cont" />
+        <item itemvalue="Application.DoWhileLoop" />
+        <item itemvalue="Application.While" />
+        <item itemvalue="Application.BreakContinue" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +123,8 @@
       <updated>1650088936518</updated>
       <workItem from="1651823121193" duration="5120000" />
       <workItem from="1652139755565" duration="18745000" />
+      <workItem from="1652250810231" duration="20880000" />
+      <workItem from="1652764711920" duration="917000" />
     </task>
     <servers />
   </component>

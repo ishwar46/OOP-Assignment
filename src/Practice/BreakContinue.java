@@ -40,7 +40,7 @@ class DoWhileLoop{
             System.out.println(i);
             System.out.println("Hello Ishu!");
             if (i==2){
-                System.out.println("Mathced!");
+                System.out.println("Matched!");
                 break;
             }
             i++;
