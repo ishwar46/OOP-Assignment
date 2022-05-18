@@ -8,8 +8,8 @@ public class QuestionTwo {
             System.out.println(Arrays.toString(newarr));
         }
 
-        public static int[] numbers(){
-            int[] Array = {1,2,3,4,5,6,7,8,9,10};
+        static int[] numbers(){
+            int[] Array = {5,6,4,4,9,5,2,4,5,22,12,22};
             return Array;
         }
 }

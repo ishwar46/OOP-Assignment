@@ -27,9 +27,3 @@ public class CountArray {
         System.out.println("the total no of factors of 2 is: "+count);
     }
 }
-
-
-class Count{
-
-
-}

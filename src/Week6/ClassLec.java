@@ -201,24 +201,23 @@ class SecondQuestion{
 }
 
 
-class MaxAndMinElementsinArray {
+class MaxAndMinArray {
     public static void main(String[] args) {
-        /*int a[] = {50, 100, 40, 20, 60};
+        int a[] = {50, 100, 40, 20, 60};
         int max = a[0];
         for (int i = 1; i < a.length; i++) {
             if (a[i] > max)
                 max = a[i];
-            System.out.println("Maximum Element is array is:" + max);*/
+            System.out.println("Maximum Element is array is:" + max);
 
-        int a[] = {50, 100, 40, 20, 60};
-        int min = a[0];
-        for (int i = 1; i <= a.length; i++)
-        {
-            if (a[i] < min)
-            {
-                min = a[i];
-                System.out.println("Minimum Element is array is:" + min);
-            }
+            /*int a[] = {50, 100, 40, 20, 60};
+            int min = a[0];
+            for (int i = 1; i <= a.length; i++) {
+                if (a[i] < min) {
+                    min = a[i];
+                    System.out.println("Minimum Element is array is:" + min);
+                }
+            }*/
         }
     }
 }
