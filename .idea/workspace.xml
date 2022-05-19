@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34adce7-8e91-4b9a-83c2-a4da3ec74929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment/Array/QuestionFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/Array/QuestionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Array/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/ClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/TwoDArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/Add.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/AvgArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/AvgArr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/ClassLec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/ClassLec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/MaxAndMinElementsinArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/MaxAndMinElementsinArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/NameString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/NameString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/OddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/OddEven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/OddEvennew.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/OddEvennew.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/SecondQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/SecondQuestion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/Strr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/Strr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Assignment/Week6/array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week6/MatrixAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week6/MatrixAdd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +39,22 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuestionFour">
-    <configuration name="AvgArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.AvgArr" />
+  <component name="RunManager" selected="Application.FoodArray">
+    <configuration name="FoodArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Array.FoodArray" />
+      <module name="OOP-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.MatrixAdd" />
       <module name="OOP-Assignment" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAndMinElementsinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.MaxAndMinElementsinArray" />
+    <configuration name="MultiDimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.MultiDimensional" />
       <module name="OOP-Assignment" />
       <extension name="coverage">
         <pattern>
@@ -87,21 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.Array.QuestionTwo" />
-      <module name="OOP-Assignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.SecondQuestion" />
+    <configuration name="Testarray5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.Testarray5" />
       <module name="OOP-Assignment" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FoodArray" />
+        <item itemvalue="Application.Testarray5" />
+        <item itemvalue="Application.MultiDimensional" />
+        <item itemvalue="Application.MatrixAdd" />
         <item itemvalue="Application.QuestionFour" />
-        <item itemvalue="Application.QuestionTwo" />
-        <item itemvalue="Application.MaxAndMinElementsinArray" />
-        <item itemvalue="Application.SecondQuestion" />
-        <item itemvalue="Application.AvgArr" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +127,8 @@
       <workItem from="1652139755565" duration="18745000" />
       <workItem from="1652250810231" duration="20880000" />
       <workItem from="1652764711920" duration="7834000" />
-      <workItem from="1652797354102" duration="2038000" />
+      <workItem from="1652797354102" duration="10237000" />
+      <workItem from="1652940484134" duration="2899000" />
     </task>
     <servers />
   </component>
