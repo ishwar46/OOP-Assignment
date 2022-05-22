@@ -2,6 +2,10 @@ package Practice;
 
 public class Methods {
 
+    static void telljoke(){
+        System.out.println("Hehe");
+    }
+
     static int logic(int x, int y){
         int z;
         if(x>y){
